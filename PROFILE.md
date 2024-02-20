@@ -1,1 +1,1 @@
-My first file
+Welcome to my GitHub profile!
